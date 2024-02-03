@@ -15,6 +15,8 @@ I used html and css together, with the various properties grafted directly into 
 
 ## Getting Started
 
+You can access the page directly via this link: https://photogallery-ag.netlify.app
+
 this is the direct link where the repository with the complete archive is saved:
 
     https://github.com/Andrea-Guarneri/website-photo.git
